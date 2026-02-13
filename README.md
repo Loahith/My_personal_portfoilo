@@ -1,11 +1,13 @@
-# 💼 Loahith V - Personal Portfolio Website
+# 📝 Advorix Technologies - Task 1
+## 💼 Loahith V - Personal Portfolio Website
+
+This project was developed as part of the Advorix Technologies internship program.
 
 Welcome to my personal portfolio website repository.
 
-This website showcases my skills, projects, internship tasks, and technical expertise as a Computer Science Engineering student.
+This website showcases my skills and technical expertise as a Computer Science Engineering student.
 
 ---
-
 
 ## 📌 About the Project
 
@@ -39,6 +41,8 @@ The website includes smooth animations, interactive UI components, and a profess
 ---
 
 ## 📂 Project Structure
+
+
 loahith-portfolio/
 
 │
